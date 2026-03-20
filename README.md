@@ -53,7 +53,7 @@ Saved to eval/results.md
 ---
 
 ## 📂 Project Structure
-
+```
 offline-chatbot/
 │
 ├── chatbot.py                     ✅ Main Python script
@@ -70,6 +70,7 @@ offline-chatbot/
 │
 ├── .gitignore           
 └── venv/                          (DO NOT upload to GitHub)
+```
 ---
 
 ## 🧪 Prompting Techniques
