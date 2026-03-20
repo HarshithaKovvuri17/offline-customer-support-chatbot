@@ -132,5 +132,5 @@ This project demonstrates that local LLMs like Llama 3.2 can be effectively used
 ## 👩‍💻 Contact
 
 - Kovvuri Harshitha
-- github Url-https://github.com/HarshithaKovvuri17/offline-customer-support-chatbot.git
-- Gmail-harshitahanisha@gmail.com
+- github Url - https://github.com/HarshithaKovvuri17/offline-customer-support-chatbot.git
+- Gmail - harshitahanisha@gmail.com
